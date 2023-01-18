@@ -6,6 +6,7 @@ This page exists to showcase the culmination of my undergraduate work at Souther
 3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms) 
 4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database) 
 5. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources 
+
 ## The Rescued Dog to Rescue Dog Project
 The original project from my Client/Server Development course was to create a Mongo database in Linux that was connected to a front-end user interface written in Python.  The purpose of this project was to create an application that would consolidate data from different animal shelters and through a user-friendly interface aid in finding shelter dogs that would be good candidates for rescue dog training.
-The original source code to this project can be found [here](https://pages.github.com/)
+The original source code to this project can be found [here]([https://pages.github.com/](https://github.com/Munky74/CS-330-Computational-Graphics/blob/main/CS-330%20Final%20Project%20Derek%20T.zip))
