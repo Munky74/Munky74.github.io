@@ -13,9 +13,10 @@ The original project from my Client/Server Development course was to create a Mo
 The original source code to this project can be found [here](https://github.com/Munky74/CS-330-Computational-Graphics/blob/main/CS-330%20Final%20Project%20Derek%20T.zip).
 
 ### To Demonstrate Mastery
-To demonstrate mastery of the 5 course outcomes we have taken this project and made updates across three categories to improve the functionality and user experience.  Those categories are:
+To demonstrate mastery of the 5 course outcomes we have taken this project and made updates across three categories to improve the functionality and user experience.  
+Those categories are:
 1. Software Design and Engineering
-2. Algorithms and Data Structure
+2. Algorithms and Data Structures
 3. Databases
 
 ### Code Review
@@ -23,3 +24,6 @@ Before we talk about the improvements we've made to our application please take 
 * Part One
 * Part Two
 * Part Three
+
+### Improvements
+As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can se our application lacked several critical features.  Namely a way to authenticate different users and assign them proper permissions and full CRUD functionality of our database.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end.  We will implement user authentication and levels of permissions, and we will fully implement CRUD operations for our admin user.
