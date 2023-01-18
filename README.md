@@ -26,8 +26,9 @@ Before we talk about the improvements we've made to our application please take 
 * Part Three
 
 ### Improvements
-As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can see our application lacked several critical features.  Our project lacked a way to authenticate different users and assign them proper permissions, and full CRUD functionality of our database.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end, as well as improve the graphical representation of our data(Databases).  We will implement user authentication and levels of permissions(Software Design and Engineering), and we will fully implement CRUD operations for our admin user(Algorithms and Data Structures).
-Each of these updates demonstrates a portion of the mastery of course outcomes.
+As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can see our application lacked several critical features.  First was a way to authenticate different users and assign them proper permissions.  Second was full CRUD functionality of our database as our original project could only read data.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end, as well as improve the graphical representation of our data(Databases).  We will implement user authentication and levels of permissions(Software Design and Engineering), and we will fully implement CRUD operations for our admin user(Algorithms and Data Structures).
+Each of these updates demonstrates mastery of a portion of the course outcomes.
+
 ###### Course Outcomes
 1. Course outcome One is demonstrated in our update by improving the visualization of our data we supported diverse audiences and organizational decision making.
 2. Course outcome Two is demonstrated in our code review by delivering professional quality communications.
