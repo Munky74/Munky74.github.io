@@ -30,11 +30,11 @@ As talked about in our code review there were some general formatting issues and
 Each of these updates demonstrates mastery of a portion of the course outcomes.
 
 ###### Course Outcomes
-1. Course outcome One is demonstrated by improving the visualization of our data we supported diverse audiences and organizational decision making.
+1. Course outcome One is demonstrated by improving the visualization of our data. By improving our charts and mapping functionality we supported diverse audiences and organizational decision making.
 2. Course outcome Two is demonstrated in our code review by delivering professional quality communications.
-3. Course outcome Three is demonstrated in by adding the several different algorithms used to fully implement CRUD functionality to our project.
+3. Course outcome Three is demonstrated by adding the several different algorithms to our application.  These algorithms are used to implement full CRUD functionality to our project.
 4. Course outcome Four is demonstrated by rebuilding our application in another environment using a different platform, thus delivering a product that can be used by the customer to accomplish industry specific goals.
-5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. We also implemented the principle of least privilege in doing so.
+5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. This not only secures our database from unauthorized users but we also implemented the principle of least privilege in doing so.
 
 ### Updated Portfolio Project
 The complete and updated project can be found here.  Included with the project files is a README explaining all of the features and functionality.  Also included with the project files is a project narrative that fully explains how the course outcomes were acheived and goes into more detail than was discussed on this page.
