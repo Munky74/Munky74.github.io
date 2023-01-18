@@ -17,6 +17,7 @@ To demonstrate a mastery of the 5 course outcomes we have taken this project and
 1. Software Design and Engineering
 2. Algorithms and Data Structures
 3. Databases
+
 These updates were made in an effort to improve the functionality, security, and user experience of our application.  
 
 ### Code Review
