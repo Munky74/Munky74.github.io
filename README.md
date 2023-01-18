@@ -13,11 +13,11 @@ The original project from my Client/Server Development course was to create a Mo
 The original source code to this project can be found [here](https://github.com/Munky74/CS-330-Computational-Graphics/blob/main/CS-330%20Final%20Project%20Derek%20T.zip).
 
 ### To Demonstrate Mastery
-To demonstrate mastery of the 5 course outcomes we have taken this project and made updates across three categories to improve the functionality and user experience.  
-Those categories are:
+To demonstrate a mastery of the 5 course outcomes we have taken this project and made updates across three main categories.  
 1. Software Design and Engineering
 2. Algorithms and Data Structures
 3. Databases
+These updates were made in an effort to improve the functionality, security, and user experience of our application.  
 
 ### Code Review
 Before we talk about the improvements we've made to our application please take a minute to watch my informal code review of the original project. These videos hosted on YouTube will highlight the current features of our application as well as the problems that we will seek to address in our updated project.
