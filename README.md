@@ -26,12 +26,12 @@ Before we talk about the improvements we've made to our application please take 
 * Part Three
 
 ### Improvements
-As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can se our application lacked several critical features.  Namely a way to authenticate different users and assign them proper permissions and full CRUD functionality of our database.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end as well as improve the graphical representation of our data(Databases).  We will implement user authentication and levels of permissions(Software Design and Engineering), and we will fully implement CRUD operations for our admin user(Algorithms and Data Structures).
+As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can see our application lacked several critical features.  Our project lacked a way to authenticate different users and assign them proper permissions, and full CRUD functionality of our database.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end, as well as improve the graphical representation of our data(Databases).  We will implement user authentication and levels of permissions(Software Design and Engineering), and we will fully implement CRUD operations for our admin user(Algorithms and Data Structures).
 Each of these updates demonstrates a portion of the mastery of course outcomes.
-###### Course Outcome
-1. Course outcome One was demonstrated in our update by improving the visualization of our data we supported diverse audiences and organizational decision making.
-2. Course outcome Two was demonstrated in our code review by delivering professional quality communications.
-3. Course outcome Three was demonstrated in our update by adding several different algorithms used to implement full CRUD functionality.
-4. Course outcome Four was demonstrated by rebuilding our application in another environment using a different platform delivering a product that can be used by the customer to accomplish industry specific goals.
-5. Course outcome Five was demonstrated in our update that added user authentication and permissions to access our database. We also implemented the principle of least privilege in doing so.  Showing the course outcome of a security mindset.
+###### Course Outcomes
+1. Course outcome One is demonstrated in our update by improving the visualization of our data we supported diverse audiences and organizational decision making.
+2. Course outcome Two is demonstrated in our code review by delivering professional quality communications.
+3. Course outcome Three is demonstrated in our update by adding several different algorithms used to implement full CRUD functionality.
+4. Course outcome Four is demonstrated by rebuilding our application in another environment using a different platform, thus delivering a product that can be used by the customer to accomplish industry specific goals.
+5. Course outcome Five a security mindset is demonstrated in our update that added user authentication and permissions to access our database. We also implemented the principle of least privilege in doing so.
 
