@@ -35,7 +35,7 @@ Each of these updates demonstrates mastery of a portion of the course outcomes.
 2. Course outcome Two is demonstrated in our code review by delivering professional quality communications.
 3. Course outcome Three is demonstrated by adding the several different algorithms to our application.  These algorithms are used to implement full CRUD functionality to our project.
 4. Course outcome Four is demonstrated by rebuilding our application in another environment using a different platform, thus delivering a product that can be used by the customer to accomplish industry specific goals.
-5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. This not only secures our database from unauthorized users but we also implemented the principle of least privilege in doing so.
+5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. This not only secures our database from unauthorized users but we also implemented the principle of least privilege while doing so.
 
 ### Updated Portfolio Project
 The complete and updated project can be found here.  Included with the project files is a README explaining all of the features and functionality.  Also included with the project files is a project narrative that fully explains how the course outcomes were acheived and goes into more detail than was discussed on this page.
