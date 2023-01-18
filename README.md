@@ -19,7 +19,7 @@ To demonstrate mastery of the 5 course outcomes we have taken this project and m
 3. Databases
 
 ### Code Review
-Before we talk about the improvements we've made to our application please take a minute to watch my informal code review of the original project hosted on YouTube.
+Before we talk about the improvements we've made to our application please take a minute to watch my informal code review of the original project hosted on YouTube.  This will highlight the current features and problems with the application that we will address in our updated project.
 * Part One
 * Part Two
 * Part Three
