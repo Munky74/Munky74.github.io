@@ -1,5 +1,5 @@
 ## Hello
-This page exists to showcase the culmination of my undergraduate work at SNHU. In these pages I hope to demonstrate a mastery of the five course outcomes of the Bachelors of Science Degree in Computer Science.
+This page exists to showcase the culmination of my undergraduate work at Southern New Hampshire University. In these pages I hope to demonstrate a mastery of the five course outcomes of the Bachelors of Science Degree in Computer Science from SNHU.
 ## The 5 Course Outcomes
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science 
 2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
