@@ -38,7 +38,7 @@ Each of these updates demonstrates mastery of a portion of the course outcomes.
 5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. This not only secures our database from unauthorized users but we also implemented the principle of least privilege while doing so.
 
 ### Updated Portfolio Project
-The complete and updated project can be found [here](https://github.com/Munky74/Munky74.github.io/blob/main/Animal%20Shelter%20-%20Final%20Build.zip).  Included with the project files is a README explaining all of the features and functionality.  Also included with the project files is a project narrative that fully explains how the course outcomes were acheived and goes into more detail than was discussed on this page.
+The complete and updated project can be found [here](https://github.com/Munky74/Munky74.github.io/blob/main/Animal%20Shelter%20-%20Final%20Build.zip).  Included with the project files is a README explaining all of the features and functionality of our application.  Also included with the project files is a project narrative that fully explains how the course outcomes were acheived and goes into more detail than was discussed on this page.
 
 ## Thanks
 Thank you for taking the time to visit my ePortfolio. Feel free to reach out to me with any comments or inquires at
