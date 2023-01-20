@@ -22,9 +22,9 @@ These updates were made in an effort to improve the functionality, security, and
 
 ### Code Review
 Before we talk about the improvements we've made to our application please take a minute to watch my informal code review of the original project. These videos hosted on YouTube will highlight the current features of our application as well as the problems that we will seek to address in our updated project.
-* [Part One] (https://youtu.be/1-YS1BAnkkY)
-* [Part Two] (https://youtu.be/8HC4huJh5Xk)
-* [Part Three] (https://youtu.be/P7yLTgoIBxU)
+* [Part One](https://youtu.be/1-YS1BAnkkY)
+* [Part Two](https://youtu.be/8HC4huJh5Xk)
+* [Part Three](https://youtu.be/P7yLTgoIBxU)
 
 ### Improvements
 As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can see our application lacked several critical features.  First was a way to authenticate different users and assign them proper permissions.  Second was full CRUD functionality of our database as our original project could only read data.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end, as well as improve the graphical representation of our data(Databases).  We will implement user authentication and levels of permissions(Software Design and Engineering), and we will fully implement CRUD operations for our admin user(Algorithms and Data Structures).
