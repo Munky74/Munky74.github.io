@@ -10,7 +10,7 @@ This page exists to showcase the culmination of my undergraduate work at Souther
 
 ### The Rescued Dog to Rescue Dog Project
 The original project from my Client/Server Development course was to create a Mongo database in Linux that was connected to a front-end user interface written in Python.  The purpose of this project was to create an application that would consolidate data from different animal shelters and through a user-friendly interface aid in finding shelter dogs that would be good candidates for rescue dog training.
-The original source code to this project can be found [here](https://github.com/Munky74/CS-330-Computational-Graphics/blob/main/CS-330%20Final%20Project%20Derek%20T.zip).
+The original source code to this project can be found [here](https://github.com/Munky74/CS-340-Client-Server-Development).
 
 ### To Demonstrate Mastery
 To demonstrate a mastery of the 5 course outcomes we have taken this project and made updates across three main categories.  
