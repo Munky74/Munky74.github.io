@@ -1,5 +1,5 @@
 ## Hello
-This page exists to showcase the culmination of my undergraduate work at Southern New Hampshire University. Throughout this page I hope to demonstrate a mastery of the five course outcomes of the Bachelors of Science Degree in Computer Science from SNHU.
+This page exists to showcase the culmination of my undergraduate work at Southern New Hampshire University. Throughout this page I hope to demonstrate a mastery of the five course outcomes of the Bachelor of Science Degree in Computer Science from SNHU.
 
 ## The 5 Course Outcomes
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science 
@@ -18,27 +18,27 @@ To demonstrate a mastery of the 5 course outcomes we have taken this project and
 2. Algorithms and Data Structures
 3. Databases
 
-These updates were made in an effort to improve the functionality, security, and user experience of our application.  
+These updates were made to improve the functionality, security, and user experience of our application.  
 
 ### Code Review
-Before we talk about the improvements we've made to our application please take a minute to watch my informal code review of the original project. These videos hosted on YouTube will highlight the current features of our application as well as the problems that we will seek to address in our updated project.
+Before we talk about the improvements, we've made to our application please take a minute to watch my informal code review of the original project. These videos hosted on YouTube will highlight the current features of our application as well as the problems that we will seek to address in our updated project.
 * [Part One](https://youtu.be/1-YS1BAnkkY)
 * [Part Two](https://youtu.be/8HC4huJh5Xk)
 * [Part Three](https://youtu.be/P7yLTgoIBxU)
 
 ### Improvements
-As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  But we can see our application lacked several critical features.  First was a way to authenticate different users and assign them proper permissions.  Second was full CRUD functionality of our database as our original project could only read data.  In our updated project we will re develop our application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front end, as well as improve the graphical representation of our data(Databases).  We will implement user authentication and levels of permissions(Software Design and Engineering), and we will fully implement CRUD operations for our admin user(Algorithms and Data Structures).
+As talked about in our code review there were some general formatting issues and things that needed to be cleaned up in the commenting.  Aside from this we can see our application lacked several critical features.  First was a way to authenticate different users and assign them proper permissions.  Second was the full CRUD functionality of our database.  In our original project could only read data.  In our updated project we will re-develop our full application in a Windows environment using Microsoft Access for our database and Microsoft Excel for our front-end, as well as improve the graphical representation of our data (Databases).  We will implement user authentication and levels of permissions (Software Design and Engineering), and we will fully implement CRUD operations for our admin user (Algorithms and Data Structures).
 Each of these updates demonstrates mastery of a portion of the course outcomes.
 
 ###### Course Outcomes
 1. Course outcome One is demonstrated by improving the visualization of our data. By improving our charts and mapping functionality we supported diverse audiences and organizational decision making.
-2. Course outcome Two is demonstrated in our code review by delivering professional quality communications.
-3. Course outcome Three is demonstrated by adding the several different algorithms to our application.  These algorithms are used to implement full CRUD functionality to our project.
-4. Course outcome Four is demonstrated by rebuilding our application in another environment using a different platform, thus delivering a product that can be used by the customer to accomplish industry specific goals.
-5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. This not only secures our database from unauthorized users but we also implemented the principle of least privilege while doing so.
+2. Course outcome Two is demonstrated in our code review and accompanying project documentation by delivering professional quality communications.
+3. Course outcome Three is demonstrated by adding the several different algorithms to our application.  These algorithms are used to implement full CRUD functionality within our project.
+4. Course outcome Four is demonstrated by rebuilding our application in a different environment and language than originally developed, thus delivering a product that can be used by the customer to accomplish industry specific goals.
+5. Course outcome Five a security mindset is demonstrated by adding user authentication and permissions to access our database. This not only secures our database from unauthorized users, but we also implemented the principle of least privilege while doing so.
 
 ### Updated Portfolio Project
-The complete and updated project can be found [here](https://github.com/Munky74/Munky74.github.io/blob/main/Animal%20Shelter%20-%20Final%20Build.zip).  Included with the project files is a README explaining all of the features and functionality of our application.  Also included with the project files is a project narrative that fully explains how the course outcomes were acheived and goes into more detail than was discussed on this page.
+The complete and updated project can be found [here](https://github.com/Munky74/Munky74.github.io/blob/main/Animal%20Shelter%20-%20Final%20Build.zip).  Included with the project files is a README explaining all the features and functionality of our application.  Also included with the project files is a project narrative that fully explains how the course outcomes were achieved and goes into more detail than was discussed on this page.
 
 ## Thanks
 Thank you for taking the time to visit my ePortfolio. Feel free to reach out to me with any comments or inquires at
